@@ -11,3 +11,5 @@
 ```python
 print("Hello, World!")
 ```
+
+![Profile photo of the Octocat](https://octodex.github.com/images/profilepic.png)
