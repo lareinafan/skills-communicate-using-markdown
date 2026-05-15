@@ -12,4 +12,4 @@
 print("Hello, World!")
 ```
 
-![Profile photo of the Octocat](https://octodex.github.com/images/profilepic.png)
+<img src="https://octodex.github.com/images/profilepic.png" alt="Profile photo of the Octocat" width="200">
